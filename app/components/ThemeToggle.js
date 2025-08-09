@@ -4,7 +4,7 @@ import { BsMoonFill, BsSunFill } from "react-icons/bs";
 import { useState } from "react";
 
 const themes = {
-  winter: "winter",
+  winter: "light",
   dracula: "dracula",
 };
 
